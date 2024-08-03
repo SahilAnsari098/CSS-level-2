@@ -1,0 +1,43 @@
+.div1{
+    border: 1px solid black;
+    margin: 20px;
+    height: 300px;
+    width: 400px;
+
+}
+#so{
+    margin: 8px;
+
+}
+#at{
+    margin: 8px;
+    position:relative;
+    top:240px;
+}
+
+#to{
+    margin:80px ;
+    position:relative;
+    left: 90px;
+}
+
+#it{
+    margin: 9px;
+    position: relative;
+    left:350px ;
+    top: 43px;
+}
+
+#tk{
+    margin: 9px;
+    position:relative;
+    left: 350px;
+    bottom: 253px;
+}
+
+
+
+    
+
+
+    
